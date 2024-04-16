@@ -1,13 +1,12 @@
 <h1 align="center">Olá, eu sou Gustavo Betete</h1>
 <h3 align="center">Sou um estudante dedicado à análise de dados, buscando constantemente aprimorar minhas habilidades</h3>
 
-- 🌱 Estou estudando ** Ciência de dados**
+- 🌱 Estou estudando **Ciência de dados**
 
 - 💬 Me pergunte sobre **Excel, Power BI, Python**
 
 - 📫 E-mail **gustavosbetete@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
