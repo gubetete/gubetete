@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou Gustavo Betete</h1>
+<h3 align="center">Sou um estudante dedicado à análise de dados, buscando constantemente aprimorar minhas habilidades</h3>
 
-<!--
-**gubetete/gubetete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou estudando ** Ciência de dados**
 
-Here are some ideas to get you started:
+- 💬 Me pergunte sobre **Excel, Power BI, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 E-mail **gustavosbetete@gmail.com**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.microsoft.com /en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt ="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </ p>
