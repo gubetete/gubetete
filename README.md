@@ -1,9 +1,9 @@
 <h1 align="center">Olá, 👋 Eu sou Gustavo</h1>
-<h3 align="center">Um analista de sistemas júnior com grande interesse por tecnologia, agora buscando dar um novo passo na área de dados.</h3>
+<h3 align="center">Um analista de sistemas júnior com grande interesse por tecnologia, agora buscando me desafiar na área de dados.</h3>
 
 - 🤝 Atualmente aprendendo **Python**
 
-- 💬 Me pergunte sobre **Excel, SQL, Power BI**
+- 💬 Me pergunte sobre **Excel, SQL, Power BI, Power Point**
 
 - 📫 Você pode me encontrar através do e-mail **gustavosbetete@gmail.com**
 
