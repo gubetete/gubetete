@@ -1,4 +1,4 @@
-<h2 align="center">Olá, 👋 Eu sou Gustavo</h2>
+<h2 align="center">Olá, 👋</h2>
 <h3 align="center">Um analista de sistemas júnior com grande interesse por tecnologia, agora buscando me desafiar na área de dados.</h3>
 
 - 🤝 Atualmente aprendendo **Python**
