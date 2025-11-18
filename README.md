@@ -1,6 +1,8 @@
 <h2 align="left">Olá, 🌍</h2>
 <h4 align="left">
-Atualmente sou Analista de BI, apaixonado por dados, inovação e automação. Tenho como missão facilitar a tomada de decisão de gestores e diretores por meio de soluções inteligentes e práticas. Tenho experiência avançada em Power BI, Excel e SQL, além de atuar com Python, Azure, Databricks e Power Automate para integração, análise e automação de processos. 😊
+Atualmente sou Analista de BI, apaixonado por dados, inovação e automação. <br>
+Tenho como missão facilitar a tomada de decisão de gestores e diretores por meio de soluções inteligentes e práticas.<br>
+Tenho experiência avançada em Power BI, Excel e SQL, além de atuar com Python, Azure, Databricks e Power Automate para integração, análise e automação de processos. 🚀
 </h4>
 
 <h3 align="left">Skills ⏬</h3>
