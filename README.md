@@ -26,14 +26,6 @@ Analista de BI e Dados, formado em Análise e Desenvolvimento de Sistemas, com e
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />      
-<img 
-    width="40px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
-/>
-<img 
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"           
-/> 
 </div>
 
 <h3 align="left">Connect with me:</h3>
