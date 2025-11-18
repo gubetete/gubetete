@@ -1,6 +1,6 @@
 <h2 align="left">Olá, 🌍</h2>
 <h4 align="left">
-Analista de BI e Dados, formado em Análise e Desenvolvimento de Sistemas, com experiência em Power BI, Python, Excel, SQL, Power Automate, Azure e Databricks. Atuo na criação de dashboards interativos, relatórios analíticos e modelos de dados eficientes, além de desenvolver automações e integrar processos para soluções corporativas. Meu objetivo é transformar dados em insights estratégicos que apoiem decisões de negócio de forma prática e escalável
+Atualmente sou Analista de BI, apaixonado por dados, inovação e automação. Tenho como missão facilitar a tomada de decisão de gestores e diretores por meio de soluções inteligentes e práticas. Tenho experiência avançada em Power BI, Excel e SQL, além de atuar com Python, Azure, Databricks e Power Automate para integração, análise e automação de processos. 😊
 </h4>
 
 <h3 align="left">Skills ⏬</h3>
