@@ -6,8 +6,7 @@ Tenho como missão facilitar a tomada de decisão de gestores e diretores por me
 Tenho experiência avançada em Power BI, Excel e SQL, além de atuar com Python, Azure, Databricks e Power Automate para integração, análise e automação de processos. 🚀
 </h4>  
 
----
-
+##
 
 <h3 align="left"></h3>
 <div style="display: flex; gap: 10px; align-items: center;">
